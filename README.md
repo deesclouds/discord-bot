@@ -1,0 +1,1 @@
+A discord bot to play around with and does some basic commands. 
