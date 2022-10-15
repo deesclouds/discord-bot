@@ -1,4 +1,4 @@
-A discord bot to play around with and does some basic commands. 
+A discord bot to study BANKI.
 
 ## Documentation need for creating discord bot
 
@@ -26,6 +26,10 @@ Then press enter repeatedly to cycle through.
 Install discord.js via node package manager.
 ```
 npm install discord.js
+```
+To start bot
+```
+node .
 ```
 
 ## Optional Packages to add:
@@ -61,6 +65,23 @@ npm install @discordjs/voice
     - Add Bot
     - Bot Created!
     - Copy Bot Token [THIS IS YOUR PASSWORD!!!]
+- Authorization Flow for your bot
+    - check public bot
+- Give Bot Privileged Intents
+    - Turn on Presence Intent
+    - Server Members Intent
+    - Message Content Intent
+- Invite Bot to Server
+    - Click on OAuth
+    - URL Generator
+        - Check Bot
+        - Check Administrator Permissions
+        - Copy & Go to Link
+        - Invite Bot to Your Preferred Discord Server
+        - Then Authorize your Bot
 
 ### Coding our Bot
+
+- Create a new file this could be index.js or main.js
+- 
 
